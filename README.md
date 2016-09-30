@@ -1,2 +1,2 @@
 # coursera-angular
-Repositorio para pruebas del curso de AngularJS de Coursera
+Repositorio para pruebas del <a href="https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home">curso de AngularJS de Coursera</a>
